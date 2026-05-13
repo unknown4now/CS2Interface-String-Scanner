@@ -104,8 +104,7 @@ See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Author: [unknown4now](https://github.com/unknown4now)  
-Original design, code, and C++ implementation.
+Author: [unknown4now](https://github.com/unknown4now)
 
 ---
 
